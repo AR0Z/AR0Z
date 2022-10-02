@@ -1,4 +1,4 @@
-<p>Hello 👋, my name is Germain, 20 years old! I'm a student in computer science at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
+<p>Hello 👋, my name is Germain, 21 years old! I'm a student in computer science at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
 
 <p align="center"><img style="margin:auto" src="https://discord.c99.nl/widget/theme-1/451364367842148353.png" alt="Germain#0001"/></p>
 
