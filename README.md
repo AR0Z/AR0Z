@@ -3,7 +3,6 @@
 <p align="center"><img style="margin:auto" src="https://discord.c99.nl/widget/theme-1/451364367842148353.png" alt="Germain#0001"/></p>
 
 <h4>Mes contacts :</h4>
-<a href="https://discord.com/invite/centerofcreators" target="_blank"><img src="https://img.shields.io/badge/Center%20Of%20Creators-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/germain-duchene/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h4>Langues, frameworks... :</h4>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
