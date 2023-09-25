@@ -1,8 +1,8 @@
-<p>Hello 👋, my name is Germain, 21 years old! I'm a student in computer science at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
+<p>Hello 👋, my name is Germain, 22 years old! I'm a student in computer science at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
 
-<h4>Mes contacts :</h4>
+<h4>Connect with me :</h4>
 <a href="https://www.linkedin.com/in/germain-duchene/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<h4>Langues, frameworks... :</h4>
+<h4>Languages, frameworks...:</h4>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/csharp-%2300599Csharp.svg?style=for-the-badge&logo=Csharp&logoColor=white"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
@@ -16,7 +16,9 @@
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
-<h4>Editeur de texte, IDE, outils et OS :</h4>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge"></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge"></a>
+<h4>IDE, Tools and OS... :</h4>
 <p>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
@@ -26,7 +28,6 @@
 <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 <a href="https://visualstudio.microsoft.com/fr/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-<a href="https://atom.io/" target="_blank"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/></a>
 </p>
 <p>
 <a href="https://www.microsoft.com/fr-be/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
