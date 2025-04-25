@@ -1,4 +1,4 @@
-<p>Hello 👋, my name is Germain, 22 years old! I'm a student IT oriented application development at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
+<p>Hello 👋, my name is Germain, 23 years old! I'm a student IT oriented application development at the IESN Henallux in Namur and I'm a big fan of computer development. I'm particularly interested in website creation and in the different programming languages.</p>
 
 <h4>Connect with me :</h4>
 <a href="https://www.linkedin.com/in/germain-duchene/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -38,5 +38,5 @@
 
 <p>&nbsp;</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR0Z&theme=dark&langs_count=5&count_private=true&locale=fr&hide=CSS,HTML" alt="AR0Z" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AR0Z&theme=dark&show_icons=true&locale=fr&count_private=true" alt="AR0Z" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR0Z&theme=dark&langs_count=5&count_private=true&locale=fr&hide=CSS,HTML,SCSS" alt="AR0Z" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AR0Z&theme=dark&show_icons=true&locale=fr&count_private=true" alt="AR0Z" /></p>
 
